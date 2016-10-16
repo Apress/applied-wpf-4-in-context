@@ -1,0 +1,5 @@
+C:\Users\raffaeu\Desktop\Book\APRESS\Chapter 14\Code\SampleApplication\SampleApplication\bin\SampleApplication.dll
+C:\Users\raffaeu\Desktop\Book\APRESS\Chapter 14\Code\SampleApplication\SampleApplication\bin\SampleApplication.pdb
+C:\Users\raffaeu\Desktop\Book\APRESS\Chapter 14\Code\SampleApplication\SampleApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\raffaeu\Desktop\Book\APRESS\Chapter 14\Code\SampleApplication\SampleApplication\obj\Debug\SampleApplication.dll
+C:\Users\raffaeu\Desktop\Book\APRESS\Chapter 14\Code\SampleApplication\SampleApplication\obj\Debug\SampleApplication.pdb

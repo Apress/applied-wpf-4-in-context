@@ -1,0 +1,6 @@
+C:\Users\raffaeu\Desktop\Book\APRESS\Chapter 14\Code\SampleApplication\SampleApplication.Fixtures\bin\Debug\SampleApplication.Fixtures.dll
+C:\Users\raffaeu\Desktop\Book\APRESS\Chapter 14\Code\SampleApplication\SampleApplication.Fixtures\bin\Debug\SampleApplication.Fixtures.pdb
+C:\Users\raffaeu\Desktop\Book\APRESS\Chapter 14\Code\SampleApplication\SampleApplication.Fixtures\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\raffaeu\Desktop\Book\APRESS\Chapter 14\Code\SampleApplication\SampleApplication.Fixtures\obj\Debug\SampleApplication.Fixtures.dll
+C:\Users\raffaeu\Desktop\Book\APRESS\Chapter 14\Code\SampleApplication\SampleApplication.Fixtures\obj\Debug\SampleApplication.Fixtures.pdb
+C:\Users\raffaeu\Desktop\Book\APRESS\Chapter 14\Code\SampleApplication\SampleApplication.Fixtures\bin\Debug\SampleApplication.Fixtures.dll.config

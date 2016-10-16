@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="5f6c7b48-a2e1-4b17-ab84-9bc648b9297e" name="raffaeu@RAFFAELEGARD400 2011-02-03 21:32:56" runUser="RAFFAELEGARD400\raffaeu" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="f6cfd08e-d2fa-4ff6-928d-2ee2a83e86df">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="raffaeu_RAFFAELEGARD400 2011-02-03 21_32_56">
+      <DeploymentItem filename="C:\DEV\Calculator\Calculator\bin\Debug\Calculator.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-02-03T21:32:56.7021484-04:00" queuing="2011-02-03T21:32:58.2802734-04:00" start="2011-02-03T21:32:58.5507813-04:00" finish="2011-02-03T21:32:59.9746094-04:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="SumTest" storage="c:\dev\calculator\calculator.fixture\bin\debug\calculator.fixture.dll" id="4ff897d4-06f1-b293-b1e3-82088f70cbdf">
+      <Execution id="3e8188be-3df2-417c-a3e0-a1b148b68290" />
+      <TestMethod codeBase="C:/DEV/Calculator/Calculator.Fixture/bin/Debug/Calculator.Fixture.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Calculator.Fixture.EngineTest, Calculator.Fixture, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SumTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="4ff897d4-06f1-b293-b1e3-82088f70cbdf" executionId="3e8188be-3df2-417c-a3e0-a1b148b68290" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="3e8188be-3df2-417c-a3e0-a1b148b68290" testId="4ff897d4-06f1-b293-b1e3-82088f70cbdf" testName="SumTest" computerName="RAFFAELEGARD400" duration="00:00:00.0194658" startTime="2011-02-03T21:32:58.8046875-04:00" endTime="2011-02-03T21:32:59.7285156-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3e8188be-3df2-417c-a3e0-a1b148b68290">
+    </UnitTestResult>
+  </Results>
+</TestRun>

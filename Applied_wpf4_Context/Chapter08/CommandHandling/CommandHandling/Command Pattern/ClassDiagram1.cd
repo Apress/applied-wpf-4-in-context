@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CommandHandling.Command_Pattern.Receiver">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Command Pattern\Receiver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommandHandling.Command_Pattern.CommandBase">
+    <Position X="3.25" Y="0.5" Width="1.75" />
+    <AssociationLine Name="receiver" Type="CommandHandling.Command_Pattern.Receiver" FixedFromPoint="true">
+      <Path>
+        <Point X="5" Y="1.188" />
+        <Point X="6" Y="1.188" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAEAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Command Pattern\CommandBase.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="receiver" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CommandHandling.Command_Pattern.ConcreteCommand">
+    <Position X="3.25" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Command Pattern\ConcreteCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommandHandling.Command_Pattern.Invoker">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <AssociationLine Name="command" Type="CommandHandling.Command_Pattern.CommandBase">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.089" Y="0.06" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Command Pattern\Invoker.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="command" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

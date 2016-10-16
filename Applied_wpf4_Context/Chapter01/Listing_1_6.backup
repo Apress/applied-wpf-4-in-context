@@ -1,0 +1,11 @@
+<Page
+  xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+  xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Grid>  
+    <DockPanel Width="200">
+      <TextBlock DockPanel.Dock="Top">First Name:</TextBlock>
+      <TextBox DockPanel.Dock="Top" />
+      <Button DockPanel.Dock="Bottom">Save</Button>
+    </DockPanel>
+  </Grid>
+</Page>

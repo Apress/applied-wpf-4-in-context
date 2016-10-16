@@ -1,0 +1,11 @@
+<Window 
+    x:Class="Chapter01.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:custom="clr-namespace:Chapter01.CustomPrefix"
+    Title="MainWindow" Height="350" Width="525">
+    <Window.DataContext>
+        <custom:CustomPrefix />
+    </Window.DataContext>
+    <!-- omitted -->
+</Window>

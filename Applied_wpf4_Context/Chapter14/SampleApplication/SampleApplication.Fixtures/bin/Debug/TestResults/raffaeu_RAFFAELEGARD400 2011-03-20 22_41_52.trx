@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="4d6005fb-7e57-4c48-92c9-c2d75a88045e" name="raffaeu@RAFFAELEGARD400 2011-03-20 22:41:52" runUser="RAFFAELEGARD400\raffaeu" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="364e95ac-57a3-4f1a-b5c1-4676e9ef06b8">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="raffaeu_RAFFAELEGARD400 2011-03-20 22_41_52" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-03-20T22:41:52.8935547-03:00" queuing="2011-03-20T22:41:53.3466797-03:00" start="2011-03-20T22:41:54.1279297-03:00" finish="2011-03-20T22:41:56.0810547-03:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="AssertThatTheServiceCanRun" storage="c:\users\raffaeu\desktop\book\apress\chapter 14\code\sampleapplication\sampleapplication.fixtures\bin\debug\sampleapplication.fixtures.dll" id="930e9118-aa8e-99d3-e2f7-80408a5834e9">
+      <Execution timeOut="1800000" id="fc8bb697-5f17-4b70-9006-4692c2e3b855" />
+      <TestMethod codeBase="C:/Users/raffaeu/Desktop/Book/APRESS/Chapter 14/Code/SampleApplication/SampleApplication.Fixtures/bin/Debug/SampleApplication.Fixtures.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SampleApplication.Fixtures.PersonServiceFixture, SampleApplication.Fixtures, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AssertThatTheServiceCanRun" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="930e9118-aa8e-99d3-e2f7-80408a5834e9" executionId="fc8bb697-5f17-4b70-9006-4692c2e3b855" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="fc8bb697-5f17-4b70-9006-4692c2e3b855" testId="930e9118-aa8e-99d3-e2f7-80408a5834e9" testName="AssertThatTheServiceCanRun" computerName="RAFFAELEGARD400" duration="00:00:01.5668483" startTime="2011-03-20T22:41:54.2216797-03:00" endTime="2011-03-20T22:41:55.9091797-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fc8bb697-5f17-4b70-9006-4692c2e3b855">
+    </UnitTestResult>
+  </Results>
+</TestRun>

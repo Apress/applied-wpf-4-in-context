@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleApplication", "SampleApplication\SampleApplication.csproj", "{9210902B-ED85-48FD-B190-214B47CBA7E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleApplication.Fixtures", "SampleApplication.Fixtures\SampleApplication.Fixtures.csproj", "{BC31BE22-873E-4F9A-A3FE-E5DF7E9E1899}"
+	ProjectSection(ProjectDependencies) = postProject
+		{9210902B-ED85-48FD-B190-214B47CBA7E0} = {9210902B-ED85-48FD-B190-214B47CBA7E0}
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4237E85E-76A0-45B5-90C2-25AD40C574DB}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		SampleApplication.vsmdi = SampleApplication.vsmdi
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = SampleApplication.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9210902B-ED85-48FD-B190-214B47CBA7E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9210902B-ED85-48FD-B190-214B47CBA7E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9210902B-ED85-48FD-B190-214B47CBA7E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9210902B-ED85-48FD-B190-214B47CBA7E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC31BE22-873E-4F9A-A3FE-E5DF7E9E1899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC31BE22-873E-4F9A-A3FE-E5DF7E9E1899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC31BE22-873E-4F9A-A3FE-E5DF7E9E1899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC31BE22-873E-4F9A-A3FE-E5DF7E9E1899}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

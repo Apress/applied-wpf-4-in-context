@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Test xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SumTest" IsTestCase="false" TestCaseId="0" AutomatedTestId="4ff897d4-06f1-b293-b1e3-82088f70cbdf">
+  <Signatures>
+    <Signature>EBB0BDB25AB43D7E963FF62C118E578D8E7B3D02</Signature>
+    <Signature>59F65090B5F9F6E5C3826F6256563EE22227FA4F</Signature>
+    <Signature>FBA00E9D8E0AB7799C8E9CDCE8230F103D115CB8</Signature>
+    <Signature>F9D9E49CD6154DEA91D1D7C3DE58B3BAAAD938E7</Signature>
+    <Signature>2C79066788659C289969F9B2C20B619BB5AB273D</Signature>
+    <Signature>9BAD0A21A14CCC22A61B0A66FCE8E8B62278A3E4</Signature>
+  </Signatures>
+</Test>

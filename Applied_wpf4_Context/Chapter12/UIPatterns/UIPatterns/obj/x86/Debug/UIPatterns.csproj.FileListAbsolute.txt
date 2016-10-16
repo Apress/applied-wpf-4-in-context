@@ -1,0 +1,12 @@
+C:\Users\raffaeu\Desktop\Book\APRESS\Chapter 12\Code\UIPatterns\UIPatterns\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\raffaeu\Desktop\Book\APRESS\Chapter 12\Code\UIPatterns\UIPatterns\obj\x86\Debug\MainWindow.baml
+C:\Users\raffaeu\Desktop\Book\APRESS\Chapter 12\Code\UIPatterns\UIPatterns\obj\x86\Debug\PassiveView\PassiveView.baml
+C:\Users\raffaeu\Desktop\Book\APRESS\Chapter 12\Code\UIPatterns\UIPatterns\obj\x86\Debug\SupervisingController\SupervisingController.baml
+C:\Users\raffaeu\Desktop\Book\APRESS\Chapter 12\Code\UIPatterns\UIPatterns\obj\x86\Debug\MainWindow.g.cs
+C:\Users\raffaeu\Desktop\Book\APRESS\Chapter 12\Code\UIPatterns\UIPatterns\obj\x86\Debug\MVVM\ModelViewViewModel.g.cs
+C:\Users\raffaeu\Desktop\Book\APRESS\Chapter 12\Code\UIPatterns\UIPatterns\obj\x86\Debug\PassiveView\PassiveView.g.cs
+C:\Users\raffaeu\Desktop\Book\APRESS\Chapter 12\Code\UIPatterns\UIPatterns\obj\x86\Debug\SupervisingController\SupervisingController.g.cs
+C:\Users\raffaeu\Desktop\Book\APRESS\Chapter 12\Code\UIPatterns\UIPatterns\obj\x86\Debug\App.g.cs
+C:\Users\raffaeu\Desktop\Book\APRESS\Chapter 12\Code\UIPatterns\UIPatterns\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\raffaeu\Desktop\Book\APRESS\Chapter 12\Code\UIPatterns\UIPatterns\obj\x86\Debug\UIPatterns_MarkupCompile.cache
+C:\Users\raffaeu\Desktop\Book\APRESS\Chapter 12\Code\UIPatterns\UIPatterns\obj\x86\Debug\UIPatterns_MarkupCompile.lref

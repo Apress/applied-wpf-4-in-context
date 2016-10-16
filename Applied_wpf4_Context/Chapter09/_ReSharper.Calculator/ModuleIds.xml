@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="4E0D048A-6BD8-4FE6-8C1D-4A18418B1691" ModuleId="Calculator" />
+  <Module PersistentId="F8567EB7-1475-4DC3-9FD6-74501A9D23C6" ModuleId="Calculator.Fixture" />
+</Modules>

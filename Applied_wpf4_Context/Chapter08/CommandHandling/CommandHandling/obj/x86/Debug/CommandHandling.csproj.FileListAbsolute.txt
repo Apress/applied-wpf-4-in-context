@@ -1,0 +1,17 @@
+C:\DEV\CommandHandling\CommandHandling\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\DEV\CommandHandling\CommandHandling\obj\x86\Debug\ControlStyles.baml
+C:\DEV\CommandHandling\CommandHandling\obj\x86\Debug\App.g.cs
+C:\DEV\CommandHandling\CommandHandling\obj\x86\Debug\CommandHandling_MarkupCompile.cache
+C:\DEV\CommandHandling\CommandHandling\bin\Debug\CommandHandling.exe
+C:\DEV\CommandHandling\CommandHandling\bin\Debug\CommandHandling.pdb
+C:\DEV\CommandHandling\CommandHandling\obj\x86\Debug\MainWindow.baml
+C:\DEV\CommandHandling\CommandHandling\obj\x86\Debug\MainWindow.g.cs
+C:\DEV\CommandHandling\CommandHandling\obj\x86\Debug\CommandHandling.g.resources
+C:\DEV\CommandHandling\CommandHandling\obj\x86\Debug\CommandHandling.Properties.Resources.resources
+C:\DEV\CommandHandling\CommandHandling\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\DEV\CommandHandling\CommandHandling\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\DEV\CommandHandling\CommandHandling\obj\x86\Debug\CommandHandling.exe
+C:\DEV\CommandHandling\CommandHandling\obj\x86\Debug\CommandHandling.pdb
+C:\DEV\CommandHandling\CommandHandling\obj\x86\Debug\CommandHandling_MarkupCompile.lref
+C:\DEV\CommandHandling\CommandHandling\obj\x86\Debug\FormatText.baml
+C:\DEV\CommandHandling\CommandHandling\obj\x86\Debug\FormatText.g.cs

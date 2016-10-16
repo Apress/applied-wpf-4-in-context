@@ -1,0 +1,10 @@
+﻿<cm:PersonList 
+    xmlns:cm="clr-namespace:Chapter01.DataTemplate">
+    <vm:Person xmlns:vm="clr-namespace:Chapter01.DataTemplate" 
+           FirstName="John" LastName="Doh" DateOfBirth="01/01/1930">
+    </vm:Person>
+    <vm:Person xmlns:vm="clr-namespace:Chapter01.DataTemplate" 
+           FirstName="Mary" LastName="Jane" DateOfBirth="01/01/1930">
+    </vm:Person>
+</cm:PersonList> 
+    

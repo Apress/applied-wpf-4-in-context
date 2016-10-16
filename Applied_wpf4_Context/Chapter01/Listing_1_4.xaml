@@ -1,0 +1,16 @@
+<Page
+  xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+  xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Grid>  
+    <StackPanel>
+      <!-- IMPLICIT -->
+      <Button>I am implicit content</Button>
+      <!-- EXPLICIT -->
+      <Button>
+        <Button.Content>
+          I am explicit
+        </Button.Content>
+      </Button>
+    </StackPanel>
+  </Grid>
+</Page>

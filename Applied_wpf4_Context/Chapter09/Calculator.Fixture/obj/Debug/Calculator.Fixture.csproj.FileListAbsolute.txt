@@ -1,0 +1,7 @@
+C:\DEV\Calculator\Calculator.Fixture\bin\Debug\Calculator.Fixture.dll
+C:\DEV\Calculator\Calculator.Fixture\bin\Debug\Calculator.Fixture.pdb
+C:\DEV\Calculator\Calculator.Fixture\bin\Debug\Calculator.dll
+C:\DEV\Calculator\Calculator.Fixture\bin\Debug\Calculator.pdb
+C:\DEV\Calculator\Calculator.Fixture\obj\Debug\ResolveAssemblyReference.cache
+C:\DEV\Calculator\Calculator.Fixture\obj\Debug\Calculator.Fixture.dll
+C:\DEV\Calculator\Calculator.Fixture\obj\Debug\Calculator.Fixture.pdb

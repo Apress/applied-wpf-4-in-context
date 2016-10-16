@@ -1,0 +1,7 @@
+C:\Users\raffaeu\Desktop\Book\APRESS\Chapter 04\Code\TimeTrackerPrototype\Lib\bin\Debug\Lib.dll
+C:\Users\raffaeu\Desktop\Book\APRESS\Chapter 04\Code\TimeTrackerPrototype\Lib\bin\Debug\Lib.pdb
+C:\Users\raffaeu\Desktop\Book\APRESS\Chapter 04\Code\TimeTrackerPrototype\Lib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\raffaeu\Desktop\Book\APRESS\Chapter 04\Code\TimeTrackerPrototype\Lib\obj\Debug\Lib.dll
+C:\Users\raffaeu\Desktop\Book\APRESS\Chapter 04\Code\TimeTrackerPrototype\Lib\obj\Debug\Lib.pdb
+C:\Users\raffaeu\Desktop\Book\APRESS\Chapter 04\Code\TimeTrackerPrototype\Lib\bin\Debug\Sketchables.Common.dll
+C:\Users\raffaeu\Desktop\Book\APRESS\Chapter 04\Code\TimeTrackerPrototype\Lib\bin\Debug\Sketchables.WPF.dll

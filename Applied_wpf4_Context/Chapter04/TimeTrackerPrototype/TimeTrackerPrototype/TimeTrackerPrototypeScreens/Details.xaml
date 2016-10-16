@@ -1,0 +1,61 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:pc="http://schemas.microsoft.com/prototyping/2010/controls" xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity" xmlns:pi="http://schemas.microsoft.com/prototyping/2010/interactivity" xmlns:ed="http://schemas.microsoft.com/expression/2010/drawing" x:Name="Details_Name"
+	mc:Ignorable="d"
+	x:Class="TimeTrackerPrototypeScreens.Details"
+	Width="640" Height="480">
+	<UserControl.Resources>
+		<ResourceDictionary>
+			<ResourceDictionary.MergedDictionaries>
+				<ResourceDictionary Source="ProjectDataSources.xaml"/>
+			</ResourceDictionary.MergedDictionaries>
+		</ResourceDictionary>
+	</UserControl.Resources>
+
+	<Grid x:Name="LayoutRoot" Background="White" DataContext="{Binding Employee, Source={StaticResource SampleDataSource}}">
+		<TextBlock HorizontalAlignment="Stretch" Margin="8,8,8,0" Style="{DynamicResource TitleCenter-Sketch}" Text="ACME - TimeTracker V 1.0" VerticalAlignment="Top"/>
+		<TextBlock HorizontalAlignment="Stretch" Margin="8,61.393,8,0" Style="{DynamicResource SubtitleCenter-Sketch}" Text="Employee Details" VerticalAlignment="Top"/>
+		<pc:SketchRectangleUC Margin="73,97.835,61,0" Style="{DynamicResource Rectangle-Sketch}" Radius="5" Background="White" Height="41" VerticalAlignment="Top">
+			<pc:SketchRectangleUC.Effect>
+				<DropShadowEffect Color="#FF8B8B8B" ShadowDepth="2" Opacity="0.7"/>
+			</pc:SketchRectangleUC.Effect>
+		</pc:SketchRectangleUC>
+		<Button Content="&lt;&lt; Back" HorizontalAlignment="Left" Margin="87,106.796,0,0" Style="{DynamicResource Button-Sketch}" VerticalAlignment="Top" Width="93">
+			<Button.Effect>
+				<DropShadowEffect Color="#FFCACACA" ShadowDepth="2" Opacity="0.6"/>
+			</Button.Effect>
+			<i:Interaction.Triggers>
+				<i:EventTrigger EventName="Click">
+					<pi:NavigateBackAction/>
+				</i:EventTrigger>
+			</i:Interaction.Triggers>
+		</Button>
+		<pc:SketchRectangleUC Margin="8,152.835,224,96" Style="{DynamicResource Rectangle-Sketch}" Radius="5" Background="White">
+			<pc:SketchRectangleUC.Effect>
+				<DropShadowEffect Color="#FF8B8B8B" ShadowDepth="2" Opacity="0.7"/>
+			</pc:SketchRectangleUC.Effect>
+		</pc:SketchRectangleUC>
+		<TextBox Margin="110,171.999,242.673,0" Style="{DynamicResource TextBox-Sketch}" TextWrapping="Wrap" Text="{Binding Name}" VerticalAlignment="Top" FontSize="16"/>
+		<TextBlock HorizontalAlignment="Left" Margin="29,172.999,0,0" Style="{DynamicResource BasicTextBlock-Sketch}" Text="Name :" VerticalAlignment="Top"/>
+		<TextBox Margin="110,203.999,242.673,0" Style="{DynamicResource TextBox-Sketch}" TextWrapping="Wrap" Text="{Binding Company}" VerticalAlignment="Top" FontSize="16"/>
+		<TextBlock HorizontalAlignment="Left" Margin="29,204.999,0,0" Style="{DynamicResource BasicTextBlock-Sketch}" Text="Company :" VerticalAlignment="Top"/>
+		<TextBox Margin="110,237.999,242.673,220.244" Style="{DynamicResource TextBox-Sketch}" TextWrapping="Wrap" Text="{Binding Email}" FontSize="16" d:LayoutOverrides="Height"/>
+		<TextBlock HorizontalAlignment="Left" Margin="29,238.999,0,221.244" Style="{DynamicResource BasicTextBlock-Sketch}" Text="E-Mail :" d:LayoutOverrides="Height"/>
+		<TextBox Margin="110,0,242.673,185.244" Style="{DynamicResource TextBox-Sketch}" TextWrapping="Wrap" Text="{Binding Address}" VerticalAlignment="Bottom" FontSize="16"/>
+		<TextBlock HorizontalAlignment="Left" Margin="29,0,0,186.244" Style="{DynamicResource BasicTextBlock-Sketch}" Text="Address :" VerticalAlignment="Bottom"/>
+		<TextBox Margin="108.477,0,244.196,149.244" Style="{DynamicResource TextBox-Sketch}" TextWrapping="Wrap" Text="{Binding Phone}" VerticalAlignment="Bottom" FontSize="16"/>
+		<TextBlock HorizontalAlignment="Left" Margin="29,0,0,150.244" Style="{DynamicResource BasicTextBlock-Sketch}" Text="Phone :" VerticalAlignment="Bottom" RenderTransformOrigin="-0.361,0.304"/>
+		<TextBox Margin="108.477,0,244.196,114.244" Style="{DynamicResource TextBox-Sketch}" TextWrapping="Wrap" Text="{Binding Web}" VerticalAlignment="Bottom" FontSize="16"/>
+		<TextBlock HorizontalAlignment="Left" Margin="29,0,0,115.244" Style="{DynamicResource BasicTextBlock-Sketch}" Text="Web :" VerticalAlignment="Bottom" RenderTransformOrigin="-0.361,0.304"/>
+		<pc:SketchRectangleUC Margin="0,152.835,8,186.244" Style="{DynamicResource Rectangle-Sketch}" Radius="5" Background="White" HorizontalAlignment="Right" Width="202">
+			<pc:SketchRectangleUC.Effect>
+				<DropShadowEffect Color="#FF8B8B8B" ShadowDepth="2" Opacity="0.7"/>
+			</pc:SketchRectangleUC.Effect>
+		</pc:SketchRectangleUC>
+		<ed:RegularPolygon Fill="{DynamicResource DisabledBorder-Sketch}" ed:GeometryEffect.GeometryEffect="Sketch" HorizontalAlignment="Right" InnerRadius="0.47211" Margin="0,172.999,109.243,0" PointCount="5" Stretch="Fill" Stroke="{DynamicResource BaseBorder-Sketch}" StrokeThickness="2" Width="51.757" Height="51.757" VerticalAlignment="Top"/>
+		<ed:RegularPolygon Fill="{DynamicResource BaseBackground-Sketch}" ed:GeometryEffect.GeometryEffect="Sketch" HorizontalAlignment="Right" InnerRadius="0.47211" Margin="0,171.999,53.486,0" PointCount="5" Stretch="Fill" Stroke="{DynamicResource BaseBorder-Sketch}" StrokeThickness="2" Width="51.757" Height="51.757" VerticalAlignment="Top"/>
+		<ed:RegularPolygon Fill="{DynamicResource DisabledBackground-Sketch}" ed:GeometryEffect.GeometryEffect="Sketch" HorizontalAlignment="Right" InnerRadius="0.47211" Margin="0,228.756,81.243,199.487" PointCount="5" Stretch="Fill" Stroke="{DynamicResource BaseBorder-Sketch}" StrokeThickness="2" Width="51.757"/>
+	</Grid>
+</UserControl>

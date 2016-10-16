@@ -1,0 +1,76 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="F8567EB7-1475-4DC3-9FD6-74501A9D23C6/f:EngineTest.cs" caret="801" fromTop="21" />
+      <File id="4E0D048A-6BD8-4FE6-8C1D-4A18418B1691/f:Engine.cs" caret="128" fromTop="7" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="4E0D048A-6BD8-4FE6-8C1D-4A18418B1691/f:Engine.cs" caret="583" fromTop="11" />
+      <File id="4E0D048A-6BD8-4FE6-8C1D-4A18418B1691/f:Engine.cs" caret="602" fromTop="6" />
+      <File id="F8567EB7-1475-4DC3-9FD6-74501A9D23C6/f:EngineTest.cs" caret="1136" fromTop="27" />
+      <File id="F8567EB7-1475-4DC3-9FD6-74501A9D23C6/f:EngineTest.cs" caret="1136" fromTop="23" />
+      <File id="F8567EB7-1475-4DC3-9FD6-74501A9D23C6/f:EngineTest.cs" caret="1136" fromTop="5" />
+      <File id="F8567EB7-1475-4DC3-9FD6-74501A9D23C6/f:EngineTest.cs" caret="183" fromTop="7" />
+      <File id="F8567EB7-1475-4DC3-9FD6-74501A9D23C6/f:EngineTest.cs" caret="482" fromTop="10" />
+      <File id="F8567EB7-1475-4DC3-9FD6-74501A9D23C6/f:EngineTest.cs" caret="1089" fromTop="0" />
+      <File id="4E0D048A-6BD8-4FE6-8C1D-4A18418B1691/f:Engine.cs" caret="142" fromTop="8" />
+      <File id="4E0D048A-6BD8-4FE6-8C1D-4A18418B1691/f:Engine.cs" caret="583" fromTop="17" />
+      <File id="4E0D048A-6BD8-4FE6-8C1D-4A18418B1691/f:Engine.cs" caret="564" fromTop="20" />
+      <File id="F8567EB7-1475-4DC3-9FD6-74501A9D23C6/f:EngineTest.cs" caret="801" fromTop="21" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="1" />
+      <Item value="class" priority="0" />
+      <Item value="decimal" priority="0" />
+      <Item value="int" priority="4" />
+      <Item value="if" priority="0" />
+      <Item value="a" priority="1" />
+      <Item value="b" priority="1" />
+      <Item value="throw" priority="1" />
+      <Item value="new" priority="2" />
+      <Item value="ArgumentNullException" priority="0" />
+      <Item value="return" priority="0" />
+      <Item value="TestMethod" priority="0" />
+      <Item value="void" priority="0" />
+      <Item value="var" priority="0" />
+      <Item value="Engine`0" priority="0" />
+      <Item value="target" priority="1" />
+      <Item value="Assert`0" priority="1" />
+      <Item value="expected" priority="0" />
+      <Item value="actual" priority="0" />
+      <Item value="ExpectedException" priority="0" />
+      <Item value="typeof" priority="1" />
+      <Item value="try" priority="0" />
+      <Item value="exception" priority="1" />
+      <Item value="Exception" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Calculator.Engine">
+      <Item value="Sum`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.VisualStudio.TestTools.UnitTesting.Assert">
+      <Item value="AreNotEqual`0" priority="0" />
+      <Item value="IsNotNull`0" priority="0" />
+      <Item value="IsInstanceOfType`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

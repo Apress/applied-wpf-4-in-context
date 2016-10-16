@@ -1,0 +1,39 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="8EFF0B5D-3E65-463B-87D4-389DE720EEC8/f:MainWindow.xaml.cs" caret="365" fromTop="12" />
+      <File id="8EFF0B5D-3E65-463B-87D4-389DE720EEC8/f:MainWindow.xaml" caret="847" fromTop="9" />
+      <File id="8EFF0B5D-3E65-463B-87D4-389DE720EEC8/d:DataTemplate/f:ListDataTemplate.xaml" caret="2046" fromTop="13" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="8EFF0B5D-3E65-463B-87D4-389DE720EEC8/f:MainWindow.xaml" caret="331" fromTop="6" />
+      <File id="8EFF0B5D-3E65-463B-87D4-389DE720EEC8/f:MainWindow.xaml.cs" caret="758" fromTop="27" />
+      <File id="8EFF0B5D-3E65-463B-87D4-389DE720EEC8/f:MainWindow.xaml" caret="1080" fromTop="15" />
+      <File id="8EFF0B5D-3E65-463B-87D4-389DE720EEC8/d:DataTemplate/f:ListDataTemplate.xaml" caret="1382" fromTop="1" />
+      <File id="8EFF0B5D-3E65-463B-87D4-389DE720EEC8/d:DataTemplate/f:ListDataTemplate.xaml" caret="2046" fromTop="13" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:System.Windows.Data.Binding">
+      <Item value="StringFormat" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

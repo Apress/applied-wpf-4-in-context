@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{4E0D048A-6BD8-4FE6-8C1D-4A18418B1691}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator.Fixture", "Calculator.Fixture\Calculator.Fixture.csproj", "{F8567EB7-1475-4DC3-9FD6-74501A9D23C6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{05B9D055-2723-4BB7-BE65-563C3B280675}"
+	ProjectSection(SolutionItems) = preProject
+		Calculator.vsmdi = Calculator.vsmdi
+		Local.testsettings = Local.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = Calculator.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E0D048A-6BD8-4FE6-8C1D-4A18418B1691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E0D048A-6BD8-4FE6-8C1D-4A18418B1691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E0D048A-6BD8-4FE6-8C1D-4A18418B1691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E0D048A-6BD8-4FE6-8C1D-4A18418B1691}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8567EB7-1475-4DC3-9FD6-74501A9D23C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8567EB7-1475-4DC3-9FD6-74501A9D23C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8567EB7-1475-4DC3-9FD6-74501A9D23C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8567EB7-1475-4DC3-9FD6-74501A9D23C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

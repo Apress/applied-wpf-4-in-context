@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="9210902B-ED85-48FD-B190-214B47CBA7E0" ModuleId="SampleApplication" />
+  <Module PersistentId="BC31BE22-873E-4F9A-A3FE-E5DF7E9E1899" ModuleId="SampleApplication.Fixtures" />
+</Modules>

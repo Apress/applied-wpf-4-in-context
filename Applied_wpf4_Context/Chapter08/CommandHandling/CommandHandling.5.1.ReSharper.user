@@ -1,0 +1,202 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="7D95E8B6-66B5-4591-91AD-FF50AAD80265/d:Command Pattern/f:Receiver.cs" caret="239" fromTop="11" />
+      <File id="7D95E8B6-66B5-4591-91AD-FF50AAD80265/d:Command Pattern/f:CommandBase.cs" caret="354" fromTop="14" />
+      <File id="7D95E8B6-66B5-4591-91AD-FF50AAD80265/d:Command Pattern/f:ConcreteCommand.cs" caret="443" fromTop="17" />
+      <File id="7D95E8B6-66B5-4591-91AD-FF50AAD80265/d:Command Pattern/f:Invoker.cs" caret="463" fromTop="21" />
+      <File id="7D95E8B6-66B5-4591-91AD-FF50AAD80265/f:ControlStyles.xaml" caret="1295" fromTop="22" />
+      <File id="7D95E8B6-66B5-4591-91AD-FF50AAD80265/f:MainWindow.xaml.cs" caret="493" fromTop="15" />
+      <File id="7D95E8B6-66B5-4591-91AD-FF50AAD80265/f:MainWindow.xaml" caret="1845" fromTop="32" />
+      <File id="7D95E8B6-66B5-4591-91AD-FF50AAD80265/f:App.xaml" caret="228" fromTop="3" />
+      <File id="7D95E8B6-66B5-4591-91AD-FF50AAD80265/f:FormatText.xaml" caret="0" fromTop="0" />
+      <File id="7D95E8B6-66B5-4591-91AD-FF50AAD80265/f:FormatText.xaml.cs" caret="368" fromTop="16" />
+      <File id="7D95E8B6-66B5-4591-91AD-FF50AAD80265/d:Mvvm/f:ObservableObject.cs" caret="425" fromTop="9" />
+      <File id="7D95E8B6-66B5-4591-91AD-FF50AAD80265/d:Mvvm/f:WeakEventManagerBase.cs" caret="676" fromTop="18" />
+      <File id="7D95E8B6-66B5-4591-91AD-FF50AAD80265/d:Mvvm/f:FormatViewModel.cs" caret="763" fromTop="22" />
+      <File id="7D95E8B6-66B5-4591-91AD-FF50AAD80265/d:Mvvm/f:MvvmCommand.cs" caret="2148" fromTop="27" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="7D95E8B6-66B5-4591-91AD-FF50AAD80265/d:Mvvm/f:FormatViewModel.cs" caret="1314" fromTop="39" />
+      <File id="7D95E8B6-66B5-4591-91AD-FF50AAD80265/f:FormatText.xaml.cs" caret="368" fromTop="16" />
+      <File id="7D95E8B6-66B5-4591-91AD-FF50AAD80265/f:FormatText.xaml.cs" caret="174" fromTop="8" />
+      <File id="7D95E8B6-66B5-4591-91AD-FF50AAD80265/d:Mvvm/f:MvvmCommand.cs" caret="2565" fromTop="34" />
+      <File id="7D95E8B6-66B5-4591-91AD-FF50AAD80265/d:Mvvm/f:MvvmCommand.cs" caret="2565" fromTop="28" />
+      <File id="7D95E8B6-66B5-4591-91AD-FF50AAD80265/d:Mvvm/f:FormatViewModel.cs" caret="895" fromTop="23" />
+      <File id="7D95E8B6-66B5-4591-91AD-FF50AAD80265/d:Mvvm/f:MvvmCommand.cs" caret="2565" fromTop="27" />
+      <File id="7D95E8B6-66B5-4591-91AD-FF50AAD80265/d:Mvvm/f:MvvmCommand.cs" caret="2565" fromTop="19" />
+      <File id="7D95E8B6-66B5-4591-91AD-FF50AAD80265/d:Mvvm/f:MvvmCommand.cs" caret="2565" fromTop="34" />
+      <File id="7D95E8B6-66B5-4591-91AD-FF50AAD80265/d:Mvvm/f:FormatViewModel.cs" caret="730" fromTop="20" />
+      <File id="7D95E8B6-66B5-4591-91AD-FF50AAD80265/d:Mvvm/f:WeakEventManagerBase.cs" caret="1618" fromTop="8" />
+      <File id="7D95E8B6-66B5-4591-91AD-FF50AAD80265/d:Mvvm/f:WeakEventManagerBase.cs" caret="1618" fromTop="9" />
+      <File id="7D95E8B6-66B5-4591-91AD-FF50AAD80265/d:Mvvm/f:MvvmCommand.cs" caret="2565" fromTop="11" />
+      <File id="7D95E8B6-66B5-4591-91AD-FF50AAD80265/d:Mvvm/f:MvvmCommand.cs" caret="2565" fromTop="11" />
+      <File id="7D95E8B6-66B5-4591-91AD-FF50AAD80265/d:Mvvm/f:WeakEventManagerBase.cs" caret="1618" fromTop="39" />
+      <File id="7D95E8B6-66B5-4591-91AD-FF50AAD80265/d:Mvvm/f:WeakEventManagerBase.cs" caret="463" fromTop="13" />
+      <File id="7D95E8B6-66B5-4591-91AD-FF50AAD80265/d:Mvvm/f:MvvmCommand.cs" caret="2565" fromTop="7" />
+      <File id="7D95E8B6-66B5-4591-91AD-FF50AAD80265/d:Mvvm/f:WeakEventManagerBase.cs" caret="181" fromTop="5" />
+      <File id="7D95E8B6-66B5-4591-91AD-FF50AAD80265/d:Mvvm/f:MvvmCommand.cs" caret="2565" fromTop="23" />
+      <File id="7D95E8B6-66B5-4591-91AD-FF50AAD80265/d:Mvvm/f:MvvmCommand.cs" caret="2565" fromTop="18" />
+      <File id="7D95E8B6-66B5-4591-91AD-FF50AAD80265/d:Mvvm/f:MvvmCommand.cs" caret="2565" fromTop="20" />
+      <File id="7D95E8B6-66B5-4591-91AD-FF50AAD80265/d:Mvvm/f:MvvmCommand.cs" caret="2565" fromTop="21" />
+      <File id="7D95E8B6-66B5-4591-91AD-FF50AAD80265/d:Mvvm/f:MvvmCommand.cs" caret="2565" fromTop="28" />
+      <File id="7D95E8B6-66B5-4591-91AD-FF50AAD80265/d:Mvvm/f:MvvmCommand.cs" caret="2565" fromTop="27" />
+      <File id="7D95E8B6-66B5-4591-91AD-FF50AAD80265/d:Mvvm/f:MvvmCommand.cs" caret="2565" fromTop="15" />
+      <File id="7D95E8B6-66B5-4591-91AD-FF50AAD80265/d:Mvvm/f:MvvmCommand.cs" caret="2143" fromTop="22" />
+      <File id="7D95E8B6-66B5-4591-91AD-FF50AAD80265/d:Mvvm/f:MvvmCommand.cs" caret="2143" fromTop="33" />
+      <File id="7D95E8B6-66B5-4591-91AD-FF50AAD80265/d:Mvvm/f:FormatViewModel.cs" caret="600" fromTop="16" />
+      <File id="7D95E8B6-66B5-4591-91AD-FF50AAD80265/d:Mvvm/f:MvvmCommand.cs" caret="1508" fromTop="29" />
+      <File id="7D95E8B6-66B5-4591-91AD-FF50AAD80265/d:Mvvm/f:MvvmCommand.cs" caret="2148" fromTop="27" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="void" priority="5" />
+      <Item value="public" priority="7" />
+      <Item value="abstract" priority="2" />
+      <Item value="bool" priority="1" />
+      <Item value="CommandBase`0" priority="1" />
+      <Item value="return" priority="6" />
+      <Item value="this" priority="28" />
+      <Item value="null" priority="1" />
+      <Item value="private" priority="4" />
+      <Item value="command" priority="1" />
+      <Item value="if" priority="4" />
+      <Item value="Margin" priority="0" />
+      <Item value="new" priority="4" />
+      <Item value="CommandBinding" priority="0" />
+      <Item value="ApplicationCommands`0" priority="0" />
+      <Item value="MessageBox`0" priority="1" />
+      <Item value="RoutedCommand`0" priority="0" />
+      <Item value="RoutedCommand" priority="0" />
+      <Item value="e" priority="0" />
+      <Item value="true" priority="3" />
+      <Item value="sender" priority="0" />
+      <Item value="args" priority="0" />
+      <Item value="Action`0" priority="0" />
+      <Item value="Func" priority="1" />
+      <Item value="object" priority="0" />
+      <Item value="CanExecuteChanged" priority="2" />
+      <Item value="EventHandler`0" priority="0" />
+      <Item value="handler" priority="0" />
+      <Item value="EventArgs`0" priority="1" />
+      <Item value="parameter" priority="1" />
+      <Item value="static" priority="0" />
+      <Item value="ICommand`0" priority="0" />
+      <Item value="MvvmCommand" priority="0" />
+      <Item value="Mvvm" priority="1" />
+      <Item value="MvvmCommand`0" priority="1" />
+      <Item value="ObservableObject" priority="0" />
+      <Item value="propg" priority="0" />
+      <Item value="ctor" priority="0" />
+      <Item value="FormatCommand" priority="1" />
+      <Item value="string" priority="6" />
+      <Item value="OnPropertyChanged`0" priority="1" />
+      <Item value="CommandManager`0" priority="0" />
+      <Item value="as" priority="0" />
+      <Item value="PropertyChangedEventHandler`0" priority="1" />
+      <Item value="requeryHandler" priority="0" />
+      <Item value="PropertyChanged" priority="0" />
+      <Item value="INotifyPropertyChanged`0" priority="3" />
+      <Item value="protected" priority="1" />
+      <Item value="TObject`0" priority="1" />
+      <Item value="GetCurrentManager`0" priority="1" />
+      <Item value="SetCurrentManager`0" priority="0" />
+      <Item value="sealed" priority="0" />
+      <Item value="IWeakEventListener`0" priority="0" />
+      <Item value="where" priority="0" />
+      <Item value="TEventArgs`0" priority="0" />
+      <Item value="WeakEventManagerBase" priority="0" />
+      <Item value="PropertyChangingEventArgs`0" priority="0" />
+      <Item value="WeakEventManagerBase&lt;PropertyChangingEventArgs&gt;" priority="0" />
+      <Item value="PropertyChangedEventManager`0" priority="0" />
+      <Item value="source" priority="0" />
+      <Item value="propertyName" priority="1" />
+      <Item value="property" priority="0" />
+      <Item value="FormatViewModel`0" priority="0" />
+      <Item value="expression" priority="0" />
+      <Item value="propertyInfo" priority="0" />
+      <Item value="TEntity`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CommandHandling.Command_Pattern.ConcreteCommand">
+      <Item value="receiver" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CommandHandling.Command_Pattern.Receiver">
+      <Item value="Equals`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CommandHandling.Command_Pattern.CommandBase">
+      <Item value="Execute`0" priority="0" />
+      <Item value="CanExecute`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CommandHandling.MainWindow">
+      <Item value="CommandBindings" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Input.CommandBindingCollection">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Input.ApplicationCommands">
+      <Item value="Cut" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.MessageBox">
+      <Item value="Show`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Input.CanExecuteRoutedEventArgs">
+      <Item value="CanExecute" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.EventArgs">
+      <Item value="Empty" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CommandHandling.Mvvm.MvvmCommand">
+      <Item value="execute" priority="1" />
+      <Item value="canExecute" priority="1" />
+      <Item value="OnCanExecuteChanged`0" priority="1" />
+      <Item value="requeryHandler" priority="3" />
+      <Item value="weakEventListener" priority="1" />
+      <Item value="RequeryCanExecute`0" priority="0" />
+      <Item value="AddListner`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty`0" priority="0" />
+      <Item value="Format`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CommandHandling.Mvvm.FormatViewModel">
+      <Item value="OriginalText" priority="3" />
+      <Item value="FormattedText" priority="3" />
+      <Item value="PropertyChanged" priority="0" />
+      <Item value="OnPropertyChanged`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CommandHandling.FormatText">
+      <Item value="DataContext" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Input.CommandManager">
+      <Item value="InvalidateRequerySuggested`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ComponentModel.INotifyPropertyChanged">
+      <Item value="PropertyChanged" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.ComponentModel.PropertyChangedEventManager">
+      <Item value="AddListener`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.PropertyInfo">
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

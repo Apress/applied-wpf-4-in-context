@@ -1,0 +1,23 @@
+<Page
+  xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+  xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Grid>  
+  <Grid.Resources>
+  </Grid.Resources>
+<StackPanel Name="pnl">
+  <StackPanel.Resources>
+  <!-- TextBox style -->
+  <Style TargetType="TextBox" x:Key="TxtStyle">
+    <Setter Property="FontFamily" Value="Verdana" />
+    <Setter Property="Background" Value="Yellow" />
+    <Setter Property="Width" Value="200" />
+  </Style>
+  </StackPanel.Resources>
+  <!-- TextBox with embedded style  -->
+  <TextBox Width="200" Height="25"
+   FontFamily="Tahoma" FontSize="12" />
+   <!-- TextBox with associated style -->
+   <TextBox Style="{StaticResource TxtStyle}" />
+</StackPanel>
+  </Grid>
+</Page>

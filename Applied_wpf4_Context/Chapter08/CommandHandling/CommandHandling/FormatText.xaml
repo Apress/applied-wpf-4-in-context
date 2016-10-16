@@ -1,0 +1,23 @@
+﻿<Window x:Class="CommandHandling.FormatText"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="FormatText" Height="226" Width="272">
+    <StackPanel>
+        <Label
+            Margin="5"
+            Content="Original Text :" />
+        <TextBox
+            Margin="5" Width="200"
+            Text="{Binding OriginalText, UpdateSourceTrigger=PropertyChanged}" />
+        <Label
+            Margin="5"
+            Content="Formatted Text :" />
+        <TextBox
+            Margin="5" Width="200"
+            Text="{Binding FormattedText, UpdateSourceTrigger=PropertyChanged}" />
+        <Button 
+            Margin="5" Width="100"
+            Command="{Binding FormatCommand}"
+            Content="Format the Text" />
+    </StackPanel>
+</Window>

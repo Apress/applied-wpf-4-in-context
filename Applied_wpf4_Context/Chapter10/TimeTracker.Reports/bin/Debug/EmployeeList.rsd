@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SharedDataSet xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner" xmlns="http://schemas.microsoft.com/sqlserver/reporting/2010/01/shareddatasetdefinition">
+  <DataSet Name="">
+    <Query>
+      <DataSourceReference>TimeTrackerDataSource</DataSourceReference>
+      <CommandText>SELECT        Employees.Title, Employees.FullName_FirstName, Employees.FullName_LastName, Employees.DateOfBrith, Employees.Username, Roles.Name, 
+                         Roles.Description
+FROM            Employees INNER JOIN
+                         RoleEmployee ON Employees.Id = RoleEmployee.Employees_Id INNER JOIN
+                         Roles ON RoleEmployee.Roles_Id = Roles.Id</CommandText>
+    </Query>
+    <Fields>
+      <Field Name="Title">
+        <DataField>Title</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+      <Field Name="FullName_FirstName">
+        <DataField>FullName_FirstName</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+      <Field Name="FullName_LastName">
+        <DataField>FullName_LastName</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+      <Field Name="DateOfBrith">
+        <DataField>DateOfBrith</DataField>
+        <rd:TypeName>System.DateTime</rd:TypeName>
+      </Field>
+      <Field Name="Username">
+        <DataField>Username</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+      <Field Name="Name">
+        <DataField>Name</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+      <Field Name="Description">
+        <DataField>Description</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+    </Fields>
+  </DataSet>
+</SharedDataSet>

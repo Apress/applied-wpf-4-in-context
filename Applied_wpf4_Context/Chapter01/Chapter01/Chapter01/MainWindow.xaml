@@ -1,0 +1,29 @@
+﻿<Window 
+    x:Class="Chapter01.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:custom="clr-namespace:Chapter01.CustomPrefix"
+    Title="MainWindow" Height="350" Width="525">
+    <Window.DataContext>
+        <custom:CustomPrefix />
+    </Window.DataContext>
+    <Grid>
+        <StackPanel>
+            <Button Height="40" Width="120">
+                <Button.Content>
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="home_go_32.png" Margin="0,0,5,0" />
+                        <TextBlock VerticalAlignment="Center" Text="HomePage"/>
+                    </StackPanel>
+                </Button.Content>
+            </Button>
+            <ListBox>
+                <ListBox.Items>
+                    <ListBoxItem Content="One" />
+                    <ListBoxItem Content="Two" IsSelected="True" />
+                    <ListBoxItem Content="Three" />
+                </ListBox.Items>
+            </ListBox>
+        </StackPanel>
+    </Grid>
+</Window>

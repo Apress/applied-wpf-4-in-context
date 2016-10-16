@@ -1,0 +1,54 @@
+﻿<Window
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:ed="http://schemas.microsoft.com/expression/2010/drawing" mc:Ignorable="d"
+	x:Class="WpfApplication3.MainWindow"
+	x:Name="Window"
+	Title="MainWindow"
+	Width="640" Height="480">
+	<Window.Resources>
+<Storyboard x:Key="Storyboard1">
+	<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="canvas">
+		<SplineDoubleKeyFrame KeyTime="0" Value="-273"/>
+		<SplineDoubleKeyFrame KeyTime="0:0:1" Value="29" KeySpline="0.2,0.55,0.57,0.06"/>
+	</DoubleAnimationUsingKeyFrames>
+	<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="canvas">
+		<SplineDoubleKeyFrame KeyTime="0" Value="-142"/>
+		<SplineDoubleKeyFrame KeyTime="0:0:1" Value="-144" KeySpline="0.2,0.55,0.57,0.06"/>
+	</DoubleAnimationUsingKeyFrames>
+	<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[2].(RotateTransform.Angle)" Storyboard.TargetName="canvas">
+		<SplineDoubleKeyFrame KeyTime="0" Value="0"/>
+		<SplineDoubleKeyFrame KeyTime="0:0:1" Value="360.304" KeySpline="0.2,0.55,0.57,0.06"/>
+	</DoubleAnimationUsingKeyFrames>
+</Storyboard>
+	</Window.Resources>
+	<Window.Triggers>
+		<EventTrigger RoutedEvent="ButtonBase.Click" SourceName="button">
+			<BeginStoryboard Storyboard="{StaticResource Storyboard1}"/>
+		</EventTrigger>
+	</Window.Triggers>
+
+	<Grid x:Name="LayoutRoot">
+		<Canvas x:Name="canvas" Margin="310,165,214,176.668" RenderTransformOrigin="0.5,0.5">
+			<Canvas.RenderTransform>
+				<TransformGroup>
+					<ScaleTransform/>
+					<SkewTransform/>
+					<RotateTransform/>
+					<TranslateTransform/>
+				</TransformGroup>
+			</Canvas.RenderTransform>
+			<ed:RegularPolygon InnerRadius="1" PointCount="6" Stretch="Fill" Stroke="Black" Fill="#FFA5C4F5" Height="100" Width="100"/>
+			<Path Data="M163.83333,267 L163.5,212.16667" Fill="#FFFBFBFB" Stretch="Fill" Stroke="Black" Width="1" Height="51.958" Canvas.Left="49.166" Canvas.Top="48.374"/>
+			<Path Data="M163.166,214.999 L214,192.25" Fill="#FFFBFBFB" Height="24.749" Stretch="Fill" Stroke="Black" Width="50.834" Canvas.Left="49.166" Canvas.Top="25.25"/>
+			<Path Data="M163.166,215.999 L114,192.25" Fill="#FFFBFBFB" Height="24.749" Stretch="Fill" Stroke="Black" Canvas.Top="25.25" Width="50.166"/>
+			<Path Data="M115,193.75 L114.5,240.25 162.25,264.25 162.25,216.75 164.25,216.25" Fill="#FF495493" Stretch="Fill" Stroke="Black" Height="71.5" Canvas.Left="0.5" Canvas.Top="26.75" Width="50.75"/>
+			<Path Data="M165,264.5 L212.25,240.5 212,193.25 164.25,216.5 C164.25,216.5 164.75,264.5 165,264.5 z" Fill="#FF212954" Stretch="Fill" Stroke="Black" Width="50.084" Height="72" Canvas.Left="49.166" Canvas.Top="26.25"/>
+		</Canvas>
+		<Button x:Name="button" Content="RUN ANIMATION" HorizontalAlignment="Left" Margin="53,202,0,199" Width="107">
+			<Button.Effect>
+				<DropShadowEffect Opacity="0.555"/>
+			</Button.Effect>
+		</Button>
+	</Grid>
+</Window>

@@ -1,0 +1,166 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="CB8382F9-CF51-423E-A862-8DE026A9A1E9/d:PassiveView/f:ICalculatorView.cs" caret="234" fromTop="11" />
+      <File id="CB8382F9-CF51-423E-A862-8DE026A9A1E9/d:PassiveView/f:PassiveView.xaml.cs" caret="607" fromTop="16" />
+      <File id="CB8382F9-CF51-423E-A862-8DE026A9A1E9/d:PassiveView/f:CalculatorModel.cs" caret="175" fromTop="7" />
+      <File id="CB8382F9-CF51-423E-A862-8DE026A9A1E9/d:PassiveView/f:CalculatorPresenter.cs" caret="412" fromTop="14" />
+      <File id="CB8382F9-CF51-423E-A862-8DE026A9A1E9/d:SupervisingController/f:CalculatorModel.cs" caret="343" fromTop="14" />
+      <File id="CB8382F9-CF51-423E-A862-8DE026A9A1E9/d:SupervisingController/f:SupervisingController.xaml" caret="1035" fromTop="5" />
+      <File id="CB8382F9-CF51-423E-A862-8DE026A9A1E9/d:SupervisingController/f:CalculatorPresenter.cs" caret="408" fromTop="16" />
+      <File id="CB8382F9-CF51-423E-A862-8DE026A9A1E9/d:SupervisingController/f:ICalculatorView.cs" caret="220" fromTop="10" />
+      <File id="CB8382F9-CF51-423E-A862-8DE026A9A1E9/d:SupervisingController/f:SupervisingController.xaml.cs" caret="481" fromTop="16" />
+      <File id="CB8382F9-CF51-423E-A862-8DE026A9A1E9/d:MVVM/f:CalculatorModel.cs" caret="227" fromTop="13" />
+      <File id="CB8382F9-CF51-423E-A862-8DE026A9A1E9/d:PassiveView/f:PassiveView.xaml" caret="269" fromTop="3" />
+      <File id="CB8382F9-CF51-423E-A862-8DE026A9A1E9/d:MVVM/f:ModelViewViewModel.xaml" caret="1821" fromTop="32" />
+      <File id="CB8382F9-CF51-423E-A862-8DE026A9A1E9/d:MVVM/f:MvvmCommand.cs" caret="2818" fromTop="63" />
+      <File id="CB8382F9-CF51-423E-A862-8DE026A9A1E9/d:MVVM/f:WeakEventManagerBase.cs" caret="1692" fromTop="44" />
+      <File id="CB8382F9-CF51-423E-A862-8DE026A9A1E9/d:MVVM/f:CalculatorViewModel.cs" caret="613" fromTop="15" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="CB8382F9-CF51-423E-A862-8DE026A9A1E9/d:SupervisingController/f:ICalculatorView.cs" caret="210" fromTop="8" />
+      <File id="CB8382F9-CF51-423E-A862-8DE026A9A1E9/d:SupervisingController/f:SupervisingController.xaml.cs" caret="847" fromTop="18" />
+      <File id="CB8382F9-CF51-423E-A862-8DE026A9A1E9/d:SupervisingController/f:SupervisingController.xaml.cs" caret="847" fromTop="13" />
+      <File id="CB8382F9-CF51-423E-A862-8DE026A9A1E9/d:SupervisingController/f:SupervisingController.xaml.cs" caret="847" fromTop="18" />
+      <File id="CB8382F9-CF51-423E-A862-8DE026A9A1E9/d:SupervisingController/f:CalculatorPresenter.cs" caret="42" fromTop="0" />
+      <File id="CB8382F9-CF51-423E-A862-8DE026A9A1E9/d:SupervisingController/f:CalculatorPresenter.cs" caret="184" fromTop="6" />
+      <File id="CB8382F9-CF51-423E-A862-8DE026A9A1E9/d:SupervisingController/f:CalculatorPresenter.cs" caret="358" fromTop="13" />
+      <File id="CB8382F9-CF51-423E-A862-8DE026A9A1E9/d:SupervisingController/f:SupervisingController.xaml.cs" caret="846" fromTop="17" />
+      <File id="CB8382F9-CF51-423E-A862-8DE026A9A1E9/d:SupervisingController/f:SupervisingController.xaml.cs" caret="675" fromTop="17" />
+      <File id="CB8382F9-CF51-423E-A862-8DE026A9A1E9/d:SupervisingController/f:SupervisingController.xaml.cs" caret="468" fromTop="12" />
+      <File id="CB8382F9-CF51-423E-A862-8DE026A9A1E9/d:SupervisingController/f:SupervisingController.xaml.cs" caret="804" fromTop="25" />
+      <File id="CB8382F9-CF51-423E-A862-8DE026A9A1E9/d:SupervisingController/f:SupervisingController.xaml.cs" caret="310" fromTop="4" />
+      <File id="CB8382F9-CF51-423E-A862-8DE026A9A1E9/d:MVVM/f:CalculatorModel.cs" caret="86" fromTop="5" />
+      <File id="CB8382F9-CF51-423E-A862-8DE026A9A1E9/d:MVVM/f:CalculatorViewModel.cs" caret="1650" fromTop="8" />
+      <File id="CB8382F9-CF51-423E-A862-8DE026A9A1E9/d:MVVM/f:CalculatorViewModel.cs" caret="1650" fromTop="14" />
+      <File id="CB8382F9-CF51-423E-A862-8DE026A9A1E9/d:MVVM/f:CalculatorViewModel.cs" caret="1368" fromTop="12" />
+      <File id="CB8382F9-CF51-423E-A862-8DE026A9A1E9/d:MVVM/f:CalculatorModel.cs" caret="88" fromTop="6" />
+      <File id="CB8382F9-CF51-423E-A862-8DE026A9A1E9/d:MVVM/f:CalculatorModel.cs" caret="313" fromTop="18" />
+      <File id="CB8382F9-CF51-423E-A862-8DE026A9A1E9/d:MVVM/f:CalculatorModel.cs" caret="227" fromTop="13" />
+      <File id="CB8382F9-CF51-423E-A862-8DE026A9A1E9/d:MVVM/f:ModelViewViewModel.xaml" caret="378" fromTop="5" />
+      <File id="CB8382F9-CF51-423E-A862-8DE026A9A1E9/d:MVVM/f:CalculatorViewModel.cs" caret="1176" fromTop="30" />
+      <File id="CB8382F9-CF51-423E-A862-8DE026A9A1E9/d:MVVM/f:CalculatorViewModel.cs" caret="1123" fromTop="29" />
+      <File id="CB8382F9-CF51-423E-A862-8DE026A9A1E9/d:MVVM/f:CalculatorViewModel.cs" caret="968" fromTop="24" />
+      <File id="CB8382F9-CF51-423E-A862-8DE026A9A1E9/d:MVVM/f:ModelViewViewModel.xaml" caret="1011" fromTop="21" />
+      <File id="CB8382F9-CF51-423E-A862-8DE026A9A1E9/d:MVVM/f:ModelViewViewModel.xaml" caret="1441" fromTop="25" />
+      <File id="CB8382F9-CF51-423E-A862-8DE026A9A1E9/d:MVVM/f:ModelViewViewModel.xaml" caret="1821" fromTop="32" />
+      <File id="CB8382F9-CF51-423E-A862-8DE026A9A1E9/d:MVVM/f:MvvmCommand.cs" caret="2821" fromTop="63" />
+      <File id="CB8382F9-CF51-423E-A862-8DE026A9A1E9/d:MVVM/f:WeakEventManagerBase.cs" caret="1692" fromTop="33" />
+      <File id="CB8382F9-CF51-423E-A862-8DE026A9A1E9/d:MVVM/f:CalculatorViewModel.cs" caret="228" fromTop="3" />
+      <File id="CB8382F9-CF51-423E-A862-8DE026A9A1E9/d:MVVM/f:CalculatorViewModel.cs" caret="445" fromTop="11" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="string" priority="1" />
+      <Item value="int" priority="5" />
+      <Item value="void" priority="4" />
+      <Item value="object" priority="1" />
+      <Item value="args" priority="1" />
+      <Item value="ICalculatorView`0" priority="2" />
+      <Item value="return" priority="3" />
+      <Item value="txtA" priority="1" />
+      <Item value="value" priority="2" />
+      <Item value="btnCalculate" priority="0" />
+      <Item value="Calculate`0" priority="0" />
+      <Item value="private" priority="5" />
+      <Item value="public" priority="4" />
+      <Item value="IAsyncResult`0" priority="0" />
+      <Item value="var" priority="0" />
+      <Item value="this" priority="19" />
+      <Item value="CalculatorPresenter`0" priority="1" />
+      <Item value="new" priority="5" />
+      <Item value="CalculatorPresenter" priority="1" />
+      <Item value="Int32`0" priority="1" />
+      <Item value="numberA" priority="0" />
+      <Item value="numberB" priority="0" />
+      <Item value="CalculatorModel`0" priority="3" />
+      <Item value="CalculatorModel" priority="1" />
+      <Item value="view" priority="1" />
+      <Item value="model" priority="0" />
+      <Item value="as" priority="0" />
+      <Item value="DataContext" priority="0" />
+      <Item value="if" priority="1" />
+      <Item value="PropertyChangedEventHandler`0" priority="0" />
+      <Item value="PropertyChanged" priority="0" />
+      <Item value="handler" priority="0" />
+      <Item value="PropertyChangedEventArgs" priority="0" />
+      <Item value="prop" priority="1" />
+      <Item value="NumberB" priority="0" />
+      <Item value="NumberA" priority="0" />
+      <Item value="OnPropertyChanged`0" priority="0" />
+      <Item value="ctor" priority="0" />
+      <Item value="MVVM" priority="0" />
+      <Item value="CalculatorViewModel`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBox">
+      <Item value="Text" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToInt32`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Button">
+      <Item value="Click" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UIPatterns.PassiveView.CalculatorPresenter">
+      <Item value="view" priority="1" />
+      <Item value="Calculate`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UIPatterns.PassiveView.ICalculatorView">
+      <Item value="NumberA" priority="1" />
+      <Item value="NumberB" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UIPatterns.PassiveView.PassiveView">
+      <Item value="presenter" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UIPatterns.PassiveView.CalculatorModel">
+      <Item value="Calculate`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UIPatterns.SupervisingController.SupervisingController">
+      <Item value="DataContext" priority="1" />
+      <Item value="presenter" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UIPatterns.SupervisingController.CalculatorPresenter">
+      <Item value="view" priority="0" />
+      <Item value="Calculate`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UIPatterns.SupervisingController.ICalculatorView">
+      <Item value="Model" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UIPatterns.MVVM.CalculatorViewModel">
+      <Item value="PropertyChanged" priority="0" />
+      <Item value="model" priority="3" />
+      <Item value="CalculateCommand" priority="0" />
+      <Item value="NumberA" priority="1" />
+      <Item value="NumberB" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UIPatterns.MVVM.CalculatorModel">
+      <Item value="NumberA" priority="1" />
+      <Item value="Calculate`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UIPatterns.MVVM.MvvmCommand">
+      <Item value="AddListner`1" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

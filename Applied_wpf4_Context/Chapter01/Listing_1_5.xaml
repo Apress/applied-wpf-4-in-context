@@ -1,0 +1,15 @@
+<Page
+  xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+  xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Grid>  
+    <StackPanel>
+      <Button Click="Click_Event">Hello World</Button>
+        <x:Code><![CDATA[
+          public void Click_Event(object sender, EventArgs e)
+          {
+             Console.WriteLine("Hello World");
+          }
+        ]]></x:Code> 
+    </StackPanel>
+  </Grid>
+</Page>
